@@ -161,11 +161,11 @@
 <details>
   <summary>Wakatime ⏳</summary>
   <br/>
-<figure><embed src="https://wakatime.com/share/@849508a1-2125-40c2-b6c3-5f7be9d5bdcc/138d3a88-a609-41d8-9479-e2062b650846.svg"></embed></figure>  <br/>
+<img src="https://wakatime.com/share/@849508a1-2125-40c2-b6c3-5f7be9d5bdcc/c9496827-55b5-4f73-88ab-71cb9565cc8d.png" />  <br/>
   <br/>
   <br/>
 
-<figure><embed src="https://wakatime.com/share/@849508a1-2125-40c2-b6c3-5f7be9d5bdcc/dfd0da86-8c9e-44e7-be5f-bf7364e666d1.svg"></embed></figure></details>
+<img src="https://wakatime.com/share/@849508a1-2125-40c2-b6c3-5f7be9d5bdcc/eead5c37-c1f9-4c86-b397-41673e4cd61d.png" /></details>
 
 <details>
   <summary>Extra Pins 📌</summary>
