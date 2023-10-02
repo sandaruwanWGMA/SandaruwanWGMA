@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there,+Molindu+here..." alt="Typing SVG" /></a></h1>
+<h1 style={{font-size:30px}}align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there,+Molindu+here..." alt="Typing SVG" /></a></h1>
 <div align="justify">
 
  <a href="https://www.instagram.com/rzashakeri/">
@@ -161,7 +161,7 @@
 <details>
   <summary>Wakatime ⏳</summary>
   <br/>
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sandaruwanWGMA)](https://github.com/sandaruwanWGMA/github-readme-stats)
+ https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sandaruwanWGMA
   <br/>
   <br/>
 
