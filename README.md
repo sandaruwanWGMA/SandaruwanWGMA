@@ -1,7 +1,4 @@
-<h1 style="font-size: 200px; margin:auto;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there,+Molindu+here..." alt="Typing SVG" /></a></h1>
-<div align="justify">
-
- <a href="https://www.instagram.com/rzashakeri/">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&pause=1000&width=435&lines=Hey+there%2C+Molindu+here..." alt="Typing SVG" /></a> <a href="https://www.instagram.com/rzashakeri/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
