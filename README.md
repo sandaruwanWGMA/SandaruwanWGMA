@@ -176,8 +176,8 @@
   <br/>
   <br/>
  
-   <a href="https://github.com/sandaruwanWGMA/storefront">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sandaruwanWGMA&repo=storefront&theme=default" />
+   <a href="https://github.com/tailwarden/komiser">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tailwarden&repo=komiser&theme=default" />
 </a>
   <br/>
   <br/>
