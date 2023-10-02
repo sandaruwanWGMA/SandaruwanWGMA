@@ -1,6 +1,4 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there,+Molindu+here..." alt="Typing SVG" /></a></h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandaruwanwgma&label=Profile%20views&color=0e75b6&style=flat" alt="sandaruwanwgma" /> </p>
-
 <div align="justify">
 
 <a href="https://www.instagram.com/rzashakeri/">
@@ -30,7 +28,7 @@
 </div>
 <p></p>
 <p align="justify">
-Hello! I'm Molindu Achintha Sandaruwan, a passionate web and mobile developer with a deep love for the transformative potential of technology. I believe in crafting digital experiences that are not just functional but purposeful, driven by user-centered design. My journey is marked by an unyielding curiosity about AI, and I enjoy integrating machine learning into projects to create intelligent solutions.
+<h3>Hello! I'm Molindu Achintha Sandaruwan, a passionate web and mobile developer with a deep love for the transformative potential of technology. I believe in crafting digital experiences that are not just functional but purposeful, driven by user-centered design. My journey is marked by an unyielding curiosity about AI, and I enjoy integrating machine learning into projects to create intelligent solutions.</h3>
 
 </p>
 
@@ -163,39 +161,26 @@ Hello! I'm Molindu Achintha Sandaruwan, a passionate web and mobile developer wi
 <details>
   <summary>Wakatime ⏳</summary>
   <br/>
-  <img src="https://wakatime.com/share/@sandaruwanWGMA/d6dcb7a2-5e70-49f5-ae5c-39405f92ffb3.png">
-  <br/>
+<figure><embed src="https://wakatime.com/share/@849508a1-2125-40c2-b6c3-5f7be9d5bdcc/138d3a88-a609-41d8-9479-e2062b650846.svg"></embed></figure>  <br/>
   <br/>
   <br/>
 
-  <img src="https://wakatime.com/share/@sandaruwanWGMA/b43da924-55df-4315-897d-e4dd9fb798f9.png">
-</details>
+<figure><embed src="https://wakatime.com/share/@849508a1-2125-40c2-b6c3-5f7be9d5bdcc/dfd0da86-8c9e-44e7-be5f-bf7364e666d1.svg"></embed></figure></details>
 
 <details>
   <summary>Extra Pins 📌</summary>
   <br/>
-  <a href="https://github.com/sandaruwanWGMA/Lorem-Farsi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sandaruwanWGMA&repo=Lorem-Farsi&theme=default" />
+  <a href="https://github.com/sandaruwanWGMA/Brain-Tumor-Classification">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sandaruwanWGMA&repo=Brain-Tumor-Classification&theme=default" />
 </a>
   <br/>
   <br/>
  
-   <a href="https://github.com/sandaruwanWGMA/Happier">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sandaruwanWGMA&repo=Happier&theme=default" />
+   <a href="https://github.com/sandaruwanWGMA/storefront">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sandaruwanWGMA&repo=storefront&theme=default" />
 </a>
   <br/>
   <br/>
- 
-   <a href="https://github.com/sandaruwanWGMA/telegram-bot-template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sandaruwanWGMA&repo=telegram-bot-template&theme=default" />
- </a>
-
-   <br/>
-  <br/>
- 
-   <a href="https://github.com/sandaruwanWGMA/pycharm-portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sandaruwanWGMA&repo=pycharm-portfolio&theme=default" />
- </a>
  
 </details>
 
@@ -208,6 +193,7 @@ Hello! I'm Molindu Achintha Sandaruwan, a passionate web and mobile developer wi
 [![trophy](https://github-profile-trophy.vercel.app/?username=sandaruwanWGMA&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
+
 
 
 
