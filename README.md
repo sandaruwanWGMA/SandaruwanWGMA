@@ -1,10 +1,6 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there,+Molindu+here..." alt="Typing SVG" /></a></h1>
 <div align="justify">
-
-<a href="https://www.instagram.com/rzashakeri/">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ 
 <a href="https://stackoverflow.com/users/22172330/sandaruwan-w-g-m-a">
 <img src="https://img.shields.io/badge/stackoverflow-F47F24?style=for-the-badge&logo=stackoverflow&logoColor=white">
 </a>
@@ -28,7 +24,7 @@
 </div>
 <p></p>
 <p align="justify">
-<h5>Hello! I'm Molindu Achintha Sandaruwan, a passionate web and mobile developer with a deep love for the transformative potential of technology. I believe in crafting digital experiences that are not just functional but purposeful, driven by user-centered design. My journey is marked by an unyielding curiosity about AI, and I enjoy integrating machine learning into projects to create intelligent solutions.</h5>
+<h4>Hello! I'm Molindu Achintha Sandaruwan, a passionate web and mobile developer with a deep love for the transformative potential of technology. I believe in crafting digital experiences that are not just functional but purposeful, driven by user-centered design. My journey is marked by an unyielding curiosity about AI, and I enjoy integrating machine learning into projects to create intelligent solutions.</h4>
 
 </p>
 
