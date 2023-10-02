@@ -161,7 +161,7 @@
 <details>
   <summary>Wakatime ⏳</summary>
   <br/>
-<img src="https://wakatime.com/share/@849508a1-2125-40c2-b6c3-5f7be9d5bdcc/c9496827-55b5-4f73-88ab-71cb9565cc8d.png" />  <br/>
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sandaruwanWGMA)](https://github.com/sandaruwanWGMA/github-readme-stats)
   <br/>
   <br/>
 
