@@ -170,8 +170,8 @@
 <details>
   <summary>Extra Pins 📌</summary>
   <br/>
-  <a href="https://github.com/sandaruwanWGMA/Brain-Tumor-Classification">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sandaruwanWGMA&repo=Brain-Tumor-Classification&theme=default" />
+  <a href="https://github.com/rzashakeri/Lorem-Farsi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=Lorem-Farsi&theme=default" />
 </a>
   <br/>
   <br/>
