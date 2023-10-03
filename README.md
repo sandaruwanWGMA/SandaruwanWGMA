@@ -1,5 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=6200&pause=1400&width=580&height=60&lines=Hey+there%2C+Molindu+here..." alt="Typing SVG" /></a><br/>
-<a href="https://www.instagram.com/rzashakeri/">
+<div style="display:grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));">
+ <a href="https://www.instagram.com/rzashakeri/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -26,6 +27,7 @@
 <a href="https://wa.me/+94783030932">
 <img src="https://img.shields.io/badge/whatsapp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
+</div>
 
 </div>
 <p></p>
