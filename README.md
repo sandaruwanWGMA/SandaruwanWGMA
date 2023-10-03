@@ -184,8 +184,7 @@ Hello! I'm Molindu Achintha Sandaruwan, a passionate web and mobile developer wi
 <details>
   <summary>Wakatime ⏳</summary>
   <br/>
- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sandaruwanWGMA
-"/>
+ <a href="https://wakatime.com"><img src="https://wakatime.com/share/@849508a1-2125-40c2-b6c3-5f7be9d5bdcc/93082567-80e6-4ca0-ad2b-6de963fb65c8.png" /></a>
   <br/>
   <br/>
 
