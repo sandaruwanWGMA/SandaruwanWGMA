@@ -24,7 +24,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://wa.me/+94783030932">
-<img src="https://img.shields.io/badge/whatsapp-34B7F1?style=for-the-badge&logo=whatsapp&logoColor=white">
+<img src="https://img.shields.io/badge/whatsapp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
 </div>
