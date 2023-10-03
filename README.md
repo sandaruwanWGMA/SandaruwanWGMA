@@ -184,11 +184,11 @@ Hello! I'm Molindu Achintha Sandaruwan, a passionate web and mobile developer wi
 <details>
   <summary>Wakatime ⏳</summary>
   <br/>
-      <figure><embed src="https://wakatime.com/share/@849508a1-2125-40c2-b6c3-5f7be9d5bdcc/9c5d75c1-c39f-40a0-84fd-fb7f912ca528.svg"></embed></figure>
+      <a href="https://wakatime.com"><img src="https://wakatime.com/share/@849508a1-2125-40c2-b6c3-5f7be9d5bdcc/5c5ed914-be28-4fec-b19a-da03c42f9dab.png" /></a>
   <br/>
   <br/>
-
-<figure><embed src="https://wakatime.com/share/@849508a1-2125-40c2-b6c3-5f7be9d5bdcc/a63c52b6-b7fa-47d0-9082-3a216cf0519b.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@849508a1-2125-40c2-b6c3-5f7be9d5bdcc/db9e2140-aef6-4579-b328-02811e93ad7e.png" /></a>
+</details>
 <details>
   <summary>Extra Pins 📌</summary>
   <br/>
