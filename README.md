@@ -2,7 +2,7 @@
 <div
       style="
         display: grid;
-        gap: 40px;
+        column-gap: 60px;
         grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
         justify-items: start;
         align-items: center;
