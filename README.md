@@ -1,41 +1,49 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=6200&pause=1400&width=580&height=60&lines=Hey+there%2C+Molindu+here..." alt="Typing SVG" /></a><br/>
-<div style="
+<div
+      style="
         display: grid;
         gap: 20px;
-        grid-template-columns: repeat(auto-fill, minmax(50px, 100px));
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
         justify-items: start;
-      ">
- <a href="https://www.instagram.com/rzashakeri/">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/22172330/sandaruwan-w-g-m-a">
-<img src="https://img.shields.io/badge/stackoverflow-F47F24?style=for-the-badge&logo=stackoverflow&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/SandaruwanWGMA/">
-<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/molindu-achintha/">
-<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://web.telegram.org/k/">
-<img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://medium.com/@molinduachintha24">
-<img src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://wa.me/+94783030932">
-<img src="https://img.shields.io/badge/whatsapp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white">
-</a>
-</div>
-
-</div>
-<p></p>
+        align-items: center;
+      "
+    >
+      <a href="https://www.instagram.com/rzashakeri/">
+        <img
+          src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+        />
+      </a>
+      <a href="https://stackoverflow.com/users/22172330/sandaruwan-w-g-m-a">
+        <img
+          src="https://img.shields.io/badge/stackoverflow-F47F24?style=for-the-badge&logo=stackoverflow&logoColor=white"
+        />
+      </a>
+      <a href="https://twitter.com/SandaruwanWGMA/">
+        <img
+          src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"
+        />
+      </a>
+      <a href="https://www.linkedin.com/in/molindu-achintha/">
+        <img
+          src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white"
+        />
+      </a>
+      <a href="https://web.telegram.org/k/">
+        <img
+          src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
+        />
+      </a>
+      <a href="https://medium.com/@molinduachintha24">
+        <img
+          src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white"
+        />
+      </a>
+      <a href="https://wa.me/+94783030932">
+        <img
+          src="https://img.shields.io/badge/whatsapp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white"
+        />
+      </a>
+    </div>
 <p align="justify">
 Hello! I'm Molindu Achintha Sandaruwan, a passionate web and mobile developer with a deep love for the transformative potential of technology. I believe in crafting digital experiences that are not just functional but purposeful, driven by user-centered design. My journey is marked by an unyielding curiosity about AI, and I enjoy integrating machine learning into projects to create intelligent solutions.
 
