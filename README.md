@@ -12,31 +12,37 @@
           src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
         />
       </a>
+      &nbsp;&nbsp;
       <a href="https://stackoverflow.com/users/22172330/sandaruwan-w-g-m-a">
         <img
           src="https://img.shields.io/badge/stackoverflow-F47F24?style=for-the-badge&logo=stackoverflow&logoColor=white"
         />
       </a>
+      &nbsp;&nbsp;
       <a href="https://twitter.com/SandaruwanWGMA/">
         <img
           src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"
         />
       </a>
+      &nbsp;&nbsp;
       <a href="https://www.linkedin.com/in/molindu-achintha/">
         <img
           src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white"
         />
       </a>
+      &nbsp;&nbsp;
       <a href="https://web.telegram.org/k/">
         <img
           src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
         />
       </a>
+      &nbsp;&nbsp;
       <a href="https://medium.com/@molinduachintha24">
         <img
           src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white"
         />
       </a>
+      &nbsp;&nbsp;
       <a href="https://wa.me/+94783030932">
         <img
           src="https://img.shields.io/badge/whatsapp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white"
