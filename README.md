@@ -20,7 +20,11 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://medium.com/@molinduachintha24">
-<img src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white">
+<img src="https://img.shields.io/badge/medium-34B7F1?style=for-the-badge&logo=medium&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://wa.me/+94783030932">
+<img src="https://img.shields.io/badge/whatsapp-000000?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
 </div>
