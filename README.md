@@ -211,8 +211,7 @@ Hello! I'm Molindu Achintha Sandaruwan, a passionate web and mobile developer wi
 ![Metrics](https://metrics.lecoq.io/sandaruwanWGMA?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=true&activity.filter=all&config.timezone=Asia%2FTehran)
 
 ## GitHub Profile Trophy 🏆
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sandaruwanWGMA&row=1&margin-w=40)](https://github.com/sandaruwanWGMA/github-profile-trophy)
+![](https://github-trophies.vercel.app/?username=sandaruwanWGMA)
 
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
 
