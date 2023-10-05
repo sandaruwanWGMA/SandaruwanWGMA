@@ -208,7 +208,7 @@ Hello! I'm Molindu Achintha Sandaruwan, a passionate web and mobile developer wi
 
 ## Recent GitHub Activity ✅
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandaruwanWGMA"></img>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandaruwanWGMA&theme=vue"></img>
 
 ## GitHub Profile Trophy 🏆
 ![](https://github-trophies.vercel.app/?username=sandaruwanWGMA)
